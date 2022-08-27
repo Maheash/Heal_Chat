@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635804294694",
+    "firebase_url": "https://heal-chat-10af0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "heal-chat-10af0",
+    "storage_bucket": "heal-chat-10af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635804294694:android:69cb9daed76de645f7d0e7",
+        "android_client_info": {
+          "package_name": "com.example.heal_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635804294694-5o32c11fc95f3uhlhnoep6ldn1bp5nml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyui8tzlt_QLi-jA9tiRElF13l6tk4rw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635804294694-5o32c11fc95f3uhlhnoep6ldn1bp5nml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
